@@ -1,0 +1,11 @@
+.text-primary {
+    color: #00ffe7 !important;
+  }
+  
+  .btn-primary {
+    background-color: #00ffe7;
+    border: none;
+    color: #000;
+    font-weight: 600;
+  }
+  

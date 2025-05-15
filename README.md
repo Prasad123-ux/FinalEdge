@@ -68,3 +68,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# 📦 FinalEdge
+
+## 📄 Description
+Briefly explain what your project does and its purpose.
+
+## 🚀 Features
+- Feature 1
+- Feature 2
+- Feature 3
+
+## 🛠️ Tech Stack
+- Frontend: React, Bootstrap, Motion
+- Backend: Node.js, Express
+- Database: MongoDB
+
+## ⚙️ Installation
+```bash
+git clone https://github.com/username/project-name.git
+cd project-name
+npm install
+npm start

@@ -1,0 +1,17 @@
+.bg-secondary {
+    background-color: #1f1f2e !important;
+  }
+  
+  .text-primary {
+    color: #00ffe7 !important;
+  }
+  .carousel-wrapper {
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  .carousel-card {
+    flex: 0 0 auto;
+    width: 300px;
+    scroll-snap-align: start;
+  }

@@ -1,0 +1,14 @@
+.navbar {
+    background: linear-gradient(90deg, #0f2027, #203a43, #2c5364); /* dark gradient */
+    transition: all 0.4s ease;
+  }
+  
+  .navbar a.nav-link:hover {
+    color: #00ffe7 !important;
+    border-bottom: 2px solid #00ffe7;
+  }
+  
+  .navbar-brand {
+    color: #00ffe7 !important;
+  }
+  
